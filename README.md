@@ -2,8 +2,6 @@
 - 🔭 I’m currently looking for a dev fullstack work
 - 🌱 I’m currently learning Java and TypeScript
 - 😅 Ask me about games and my baby 
-- 📫 How to reach me: email> pereirajoaovitor.741@gmail.com
-- ⚙️ technologies that I know: ReactJS, React Native, AngularJS, Laravel, Ionic, (learning Java Spring), MySQL, NodeJS, FireBase & MongoDB
 
 <div style="display: flex"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Ja1Vytw&rank_icon=github&layout=compact&theme=tokyonight" alt="Ja1Vytw's GitHub stats" style="height: 150px; width: 500px;">
