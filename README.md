@@ -24,7 +24,7 @@
   <img align="center" alt="Ja1Vytw-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" />
 </div>
 
-<div style="margin-top:20px;"> <hr> <br>
+<div style="margin-top:20px;"> <hr>
     <h3 align="left">Connect with me!</h3>
     <a href="https://www.linkedin.com/in/joao-vitor-pereira21102003/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
