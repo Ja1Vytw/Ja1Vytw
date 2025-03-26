@@ -10,7 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Vytw&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 150px; width: 500px;">
 </div>
 
-<div style="display: inline_block; margin: auto;"><br>
+<div style="display: inline_block; margin: auto;"><hr>
+    <h1>My Stack</h1>
   <img align="center" alt="Vivi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
   <img align="center" alt="Ja1Vytw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" />
   <img align="center" alt="Ja1Vytw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" />
@@ -25,7 +26,7 @@
   <img align="center" alt="Ja1Vytw-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" />
 </div>
 
-<div style="margin-top:20px;"> <br> <br>
+<div style="margin-top:20px;"> <hr> <br>
     <a href="https://www.linkedin.com/in/joao-vitor-pereira21102003/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
