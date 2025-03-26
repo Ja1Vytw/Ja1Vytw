@@ -25,6 +25,7 @@
 </div>
 
 <div style="margin-top:20px;"> <hr> <br>
+    <h3 align="left">Connect with me!</h3>
     <a href="https://www.linkedin.com/in/joao-vitor-pereira21102003/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
