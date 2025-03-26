@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Java and TypeScript
 - 😅 Ask me about games and my baby 
 
-<div style="display: flex"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Ja1Vytw&rank_icon=github&layout=compact&theme=tokyonight" alt="Ja1Vytw's GitHub stats" style="height: 150px; width: 500px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Vytw&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 150px; width: 500px;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ja1Vytw&rank_icon=github&layout=compact&theme=tokyonight" alt="Ja1Vytw's GitHub stats" style="width: 55%; height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1Vytw&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 40%; height: 150px;">
 </div>
 
 <div style="display: inline_block; margin: auto;"><hr>
