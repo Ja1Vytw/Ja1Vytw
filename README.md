@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=1000&height=150&lines=Bem+Vindo+ao+Meu+GitHub;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=1000&height=150&lines=Prazer%2C+me+chamo+Jo%C3%A3o+Vitor;Bem+Vindo+ao+Meu+GitHub;Full+Stack+Developer)](https://git.io/typing-svg)
 - 🔭 I’m currently looking for a dev fullstack work
 - 🌱 I’m currently learning Java and TypeScript
 - 😅 Ask me about games and my baby 
