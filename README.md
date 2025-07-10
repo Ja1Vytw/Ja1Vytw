@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Prazer%2C+me+chamo+Jo%C3%A3o+Vitor;Full+Stack+Developer+em+constante+evolu%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Prazer%2C+me+chamo+Jo%C3%A3o+Vitor;Full+Stack+Developer!)](https://git.io/typing-svg)
 
 ---
 
