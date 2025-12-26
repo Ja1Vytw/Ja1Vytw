@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre mim
 
 Sou **Desenvolvedor Full Stack Pleno**, com forte especialização em **Front-end** e atuação como **Front-end Lead** em ambientes corporativos.  
-Atualmente trabalho na **MK Tech (Grupo MK / Mondial)**, desenvolvendo sistemas **enterprise** e portais **B2B**, com foco em **qualidade técnica, UX/UI e impacto no negócio**.
+Atualmente trabalho na **MK Tech (Grupo MK / Mondial Eletrodomésticos)**, desenvolvendo sistemas **enterprise** e portais **B2B**, com foco em **qualidade técnica, UX/UI e impacto no negócio**.
 
 No **front-end**, atuo principalmente com **Angular** e **TailwindCSS**, sendo responsável pela **arquitetura de componentes**, padrões de interface e **design de produto**.  
 Fui responsável pelo **UX/UI do MK MOVE (TMS)** e pelo desenvolvimento do **Portal Conecta**, projeto pelo qual recebi um **prêmio de Excelência em Entrega**.
