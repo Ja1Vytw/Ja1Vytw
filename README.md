@@ -1,52 +1,52 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+I'm+Jo%C3%A3o+Vitor+Pereira;Mid-Level+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Angular+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+I'm+Jo%C3%A3o+Vitor+Pereira;Full+Stack+Developer;Angular+%7C+.NET+%7C+AWS)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Mid-Level Full Stack Engineer** with **4+ years of professional experience**, including **enterprise systems**, **technical leadership**, and **international clients**.
+Desenvolvedor Full Stack com foco em **Angular** no front-end e **C# .NET** no back-end. Atualmente na **MK Tech Solutions (Grupo MK)**, trabalhando na evolução do **MK MOVE**, um sistema de gestão de transporte e documentos fiscais em produção.
 
-Currently working at **MK Tech (Grupo MK / Mondial Eletrodomésticos)**, delivering **enterprise-grade platforms** and **B2B systems**, with strong ownership over **frontend architecture, UX/UI decisions and product quality**.
-
-On the **frontend**, I primarily work with **Angular and Tailwind CSS**, leading component architecture and UI standards. I was responsible for the **UX/UI of MK MOVE (TMS)** and for developing **Portal Conecta**, a corporate B2B platform — projects for which I received **internal excellence awards** for delivery and technical leadership.
-
-On the **backend**, I build and integrate applications using **Java and Spring Boot**, developing **RESTful APIs** and integrating systems in corporate environments. I also have experience with **PostgreSQL and MongoDB**, focusing on scalable and maintainable solutions.
-
-I work comfortably in **English-speaking environments**, including meetings with international clients from **Belgium and Germany**, and I prioritize clean code, scalability and business-oriented technical decisions.
+Tenho experiência com integrações com SAP, mensageria fiscal, planejamento de carregamento com cálculos geométricos 3D e documentação técnica. Também desenvolvo projetos pessoais em TypeScript, React e Spring Boot.
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
-### Backend
-- Java
+### Front-end
+- Angular (uso diário)
+- React
+- TypeScript
+- Tailwind CSS
+
+### Back-end
+- C# .NET / ASP.NET Core
+- Node.js / Express
 - Spring Boot
 - REST APIs
-- Enterprise integrations
 
-### Frontend
-- Angular (primary, daily use)
-- React (strong knowledge)
-- Tailwind CSS
-- TypeScript
-
-### Databases
+### Dados
 - PostgreSQL
 - MongoDB
+- SQLite
 
-### Other
-- Git
-- Agile / Scrum
-- UX/UI ownership
-- Technical leadership
+### Cloud e DevOps
+- AWS
+- Docker
+- GitFlow
+
+### Outros
+- Scrum
+- GMUD
+- Documentação técnica
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
@@ -56,11 +56,10 @@ I work comfortably in **English-speaking environments**, including meetings with
 
 ## 🏗️ Key Projects
 
-- **MK MOVE (TMS)** — Enterprise Transportation Management System with frontend leadership and architectural ownership.
-- **Portal Conecta (B2B Platform)** — Corporate portal for partners, orders and product management.
-- **MK Pay (Fintech)** — Technical consulting and leadership in financial systems development.
-- **Finance Tracker** — Java, Spring Boot, React, MongoDB, Docker.
-- **Online RPG Platform** — Java, Spring Boot, React, PostgreSQL.
+- **[BattlePhase](https://github.com/Ja1Vytw/BattlePhase)**: plataforma para jogadores de Yu-Gi-Oh!, do iniciante ao avançado. Angular 19 e ASP.NET Core 8.
+- **[MandyFinance](https://github.com/Ja1Vytw/MandyFinance)**: gestão financeira com API REST em Node.js, Express, TypeScript e MongoDB.
+- **[TS-FinanceTracker](https://github.com/Ja1Vytw/TS-FinanceTracker)**: controle financeiro com React 19 e API em Spring Boot, com autenticação JWT e MongoDB Atlas.
+- **Eryndor**: RPG online em JavaScript. [adicionar link e descrição]
 
 ---
 
@@ -75,24 +74,21 @@ I work comfortably in **English-speaking environments**, including meetings with
 
 ## 🌍 Open to Opportunities
 
-- Open to **international roles**
-- Open to **relocation (Ireland / Dublin)**
-- Open to **visa sponsorship**
-- Eligible for **Critical Skills Employment Permit** (Software Engineering roles)
+- Aberto a oportunidades remotas ou híbridas em São Paulo
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-pereira21102003/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereirajoaovitor.741@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-pereira21102003/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
 
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ja1Vytw/Ja1Vytw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ja1Vytw/Ja1Vytw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ja1Vytw/Ja1Vytw/output/github-contribution-grid-snake.svg">
 </picture>
