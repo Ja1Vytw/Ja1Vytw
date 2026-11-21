@@ -13,15 +13,11 @@ Tenho experiência com integrações com SAP, mensageria fiscal, planejamento de
 ## 🚀 Tech Stack & Tools
 
 ### Front-end
-- Angular (uso diário)
-- React
+- Angular
 - TypeScript
-- Tailwind CSS
 
 ### Back-end
 - C# .NET / ASP.NET Core
-- Node.js / Express
-- Spring Boot
 - REST APIs
 
 ### Dados
